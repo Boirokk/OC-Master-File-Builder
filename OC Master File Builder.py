@@ -75,3 +75,4 @@ for key1 in transkey:
 
 print('Done...')
 print('All files have been copied to there destination folder.')
+input()
